@@ -8,11 +8,11 @@ public class SingerRecord {
         private int albumspubno;
 
         public Singers() {
-            this.id = 00;
+            this.id = 0;
             this.name = "";
             this.address = "";
             this.dateofbirth = "";
-            this.albumspubno = 00;
+            this.albumspubno = 0;
         }
 
         // Constructor (ID)
